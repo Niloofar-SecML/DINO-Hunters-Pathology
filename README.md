@@ -2,6 +2,9 @@
 Unsupervised glomeruli detection in kidney histopathology using DINOv3 + QuPath extension
 This project integrates a **DINOv3-based self-supervised model** into **QuPath** to enable *label-free* glomeruli detection (GS vs Non-GS) in kidney histopathology.
 
+<img width="1440" height="900" alt="Screen Shot 1404-07-30 at 01 28 32" src="https://github.com/user-attachments/assets/ef230573-d233-4a76-99bf-0f6499653673" />
+
+
 ## Problem Statement
 Labeling pathology images is **expensive, time-consuming, and error-prone**.  
 We use **self-supervised learning (SSL)** with DINOv3 to learn robust features **without manual labels**.
