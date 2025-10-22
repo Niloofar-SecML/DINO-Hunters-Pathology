@@ -1,0 +1,14 @@
+<OME xmlns="http://www.openmicroscopy.org/Schemas/OME/2016-06" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Creator="tifffile.py 2021.11.2" UUID="urn:uuid:b67daebe-5816-11ee-8ad4-00001029fe80" xsi:schemaLocation="http://www.openmicroscopy.org/Schemas/OME/2016-06 http://www.openmicroscopy.org/Schemas/OME/2016-06/ome.xsd">
+    <Image ID="Image:0" Name="Image0">
+        <Pixels PhysicalSizeXUnit="μm" PhysicalSizeYUnit="μm" DimensionOrder="XYCZT" ID="Pixels:0" SizeC="7" SizeT="1" SizeX="89684" SizeY="61918" SizeZ="1" Type="uint16">
+            <Channel Color="-1" ID="Channel:0:0" Name="cortex" SamplesPerPixel="1" />
+            <Channel Color="-1" ID="Channel:0:1" Name="non-globally-sclerotic glomeruli" SamplesPerPixel="1" />
+            <Channel Color="-1" ID="Channel:0:2" Name="globally-sclerotic glomeruli" SamplesPerPixel="1" />
+            <Channel Color="-1" ID="Channel:0:3" Name="tubules" SamplesPerPixel="1" />
+            <Channel Color="-1" ID="Channel:0:4" Name="arteries/arterioles" SamplesPerPixel="1" />
+            <Channel Color="-1" ID="Channel:0:5" Name="peritubular-capillaries" SamplesPerPixel="1" />
+            <Channel Color="-1" ID="Channel:0:6" Name="IFTA" SamplesPerPixel="1" />
+            <TiffData PlaneCount="7" />
+        </Pixels>
+    </Image>
+</OME>
