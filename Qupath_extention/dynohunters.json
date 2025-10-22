@@ -1,0 +1,9 @@
+{
+  "name": "DINO Hunters",
+  "version": "1.0.0",
+  "description": "Unsupervised glomeruli detection using DINOv3 embeddings.",
+  "author": "Niloofar Alizadeh",
+  "language": "python",
+  "script": "dynohunters.py",
+  "menuPath": "Extensions>DINO Hunters"
+}
