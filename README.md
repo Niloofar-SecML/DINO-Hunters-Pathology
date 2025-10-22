@@ -28,4 +28,3 @@ See folders: `dataset/`, `qupath_extension/`, `notebook/`, `model/`, `demo/`.
 
 ## Notes
 - Do **not** commit full KPMP data (size/privacy). Provide **small samples** only.
-- Large files? Use **Git LFS** or provide external links.
